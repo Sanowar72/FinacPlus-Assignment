@@ -1,0 +1,5 @@
+Metadata are those which is hidden information behind the product such as when the product first come into sell on Amazon, price, product details, size,color and all.
+
+Now for a shirt you can gather the information and you already know well what is it use for
+
+When user will search product based on metadata like(red color,shirt size,product, rating and all) we will gather the the information and we will show to user. 
